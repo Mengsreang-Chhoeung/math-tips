@@ -1,3 +1,3 @@
-# Math Tips
+<h1 align="center">Math Tips</h1>
 
-Math is easy.
+<p align="center"><b>Math</b> is easy.</p>
